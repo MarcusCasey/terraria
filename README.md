@@ -1,2 +1,2 @@
 # terraria
-Terraria Server for the bois. AKS hosted
+Terraria Server for the bois. 
